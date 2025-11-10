@@ -35,9 +35,9 @@ Tôi đã xây dựng các pipeline tích hợp **Voice Activity Detection (VAD)
 
 ## 💼 Kinh nghiệm
 
-### **AI Engineer – TEL4VN (03/2024 – Nay)**
+### **ML Engineer – TEL4VN (03/2024 – 08/2025)**
 Phát triển và triển khai các hệ thống AI thoại và NLP tiếng Việt chạy **real-time**, sử dụng **FastAPI**, **Docker**, và **GPU/CUDA**.
-
+### **AI Engineer – ARAR (09/2024 – nay)**
 
 ---
 
@@ -77,7 +77,3 @@ Phát triển và triển khai các hệ thống AI thoại và NLP tiếng Vi�
 
 ---
 
-## 🧾 Ghi chú cho nhà tuyển dụng
-
-Tôi hướng đến phát triển **AI systems có tính thực tiễn**, kết hợp **hiệu năng cao** và **trải nghiệm người dùng mượt mà**.  
-Luôn học hỏi, tối ưu hoá pipeline, và mong muốn tham gia các sản phẩm AI có ảnh hưởng tích cực đến cộng đồng Việt Nam.
