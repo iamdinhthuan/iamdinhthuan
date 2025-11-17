@@ -37,10 +37,9 @@ Tôi đã xây dựng các pipeline tích hợp **Voice Activity Detection (VAD)
 
 ### **ML Engineer – TEL4VN (03/2024 – 08/2025)**
 Phát triển và triển khai các hệ thống AI thoại và NLP tiếng Việt chạy **real-time**, sử dụng **FastAPI**, **Docker**, và **GPU/CUDA**.
-### **AI Engineer – ARAR (09/2024 – nay)**
-
+### **AI Engineer – ARAR (09/2024 – Nay)**
+Tiếp tục phát triển các mô hình NLP, xây dựng chatbot SQL, RAG.
 ---
-
 
 ## ⚙️ Kỹ năng chính
 
