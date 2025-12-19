@@ -1,7 +1,3 @@
-Mình đã thêm **mục “📌 Các mô hình Speech tôi đã train”** ngay sau phần giới thiệu để phù hợp với bố cục README 👍
-
-Dưới đây là file README đã được bổ sung list các model bạn yêu cầu 👇
-
 ---
 
 # 👋 Xin chào! Tôi là **Nguyễn Đình Thuần**
@@ -107,5 +103,3 @@ Tiếp tục phát triển các mô hình NLP, xây dựng chatbot SQL, RAG.
 
 ---
 
-
-chỉ cần nói nhé 💪
