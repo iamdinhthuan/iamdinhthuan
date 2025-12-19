@@ -1,6 +1,6 @@
 ---
 
-# 👋 Xin chào! Tôi là **Nguyễn Đình Thuần**
+👋 Xin chào! Tôi là **Nguyễn Đình Thuần**
 
 **Machine Learning Engineer | AI Engineer | Backend Developer (Python/FastAPI)**
 🎓 **Kỹ sư Kỹ thuật Điện tử – Viễn thông** — Đại học Tôn Đức Thắng (2019–2024)
