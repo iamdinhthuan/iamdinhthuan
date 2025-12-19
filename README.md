@@ -57,6 +57,7 @@ Tôi đã xây dựng các pipeline tích hợp **Voice Activity Detection (VAD)
 * wav2vec-stt
 * conformer-stt
 * zipformer-stt
+* whisper-stt
 
 ---
 
