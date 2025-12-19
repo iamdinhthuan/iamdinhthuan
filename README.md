@@ -29,10 +29,7 @@ Dưới đây là file README đã được bổ sung list các model bạn yêu
 
 ## 🧠 Giới thiệu
 
-Tôi là **Machine Learning Engineer** tập trung vào **Speech & NLP tiếng Việt**, có kinh nghiệm triển khai hệ thống **AI real-time** với **FastAPI**, **Docker**, và **GPU/CUDA**.
-Tôi đã xây dựng các pipeline tích hợp **Voice Activity Detection (VAD)**, **Speaker Diarization**, **Speech-to-Text**, **Intent/Emotion Classification**, và đưa mô hình AI vào production tối ưu hóa **latency** và **throughput**.
-
-Đam mê của tôi là kết nối giữa nghiên cứu và ứng dụng — từ mô hình deep learning cho đến các sản phẩm hoạt động ổn định trên hạ tầng thực tế.
+Tôi là **Machine Learning Engineer** tập trung vào **Speech & NLP tiếng Việt**, có kinh nghiệm triển khai hệ thống **AI real-time** với **FastAPI**, **Docker**, và **GPU/CUDA**. Đam mê của tôi là kết nối giữa nghiên cứu và ứng dụng — từ mô hình deep learning cho đến các sản phẩm hoạt động ổn định trên hạ tầng thực tế.
 
 ---
 
