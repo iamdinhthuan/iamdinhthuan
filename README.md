@@ -51,6 +51,8 @@ Tôi đã xây dựng các pipeline tích hợp **Voice Activity Detection (VAD)
 * stylish-tts
 * index-tts
 * VoxCPM-tts
+* style-tts-2-lite
+* spark-tts
 
 ### 🎧 **STT models**
 
