@@ -146,9 +146,9 @@ gantt
 
 | Domain | Technologies |
 |:-------|:-------------|
-| **Backend & MLOps** | Python, FastAPI, SQLAlchemy, Docker, Gunicorn, CUDA |
-| **AI/ML Frameworks** | PyTorch, TensorFlow, Transformers, Hugging Face |
-| **Speech Processing** | Custom TTS/STT pipelines |
+| **Backend & MLOps** | Python, FastAPI, SQLAlchemy, Docker, Gunicorn, CI/CD, CUDA |
+| **AI/ML Frameworks** | PyTorch, TensorFlow, Transformers, Hugging Face, PhoBERT |
+| **Speech Processing** | pyannote, WavLM, FFmpeg, Custom TTS/STT pipelines |
 | **Audio & NLP** | SoundFile, Pydub, NER, Intent Classification, RAG |
 | **Frontend Support** | React, Next.js, TypeScript, TailwindCSS, WebSocket |
 
@@ -157,7 +157,17 @@ gantt
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdinhthuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+### 📊 Quick Stats
+  
+![Total Stars](https://img.shields.io/github/stars/iamdinhthuan?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
+![Followers](https://img.shields.io/github/followers/iamdinhthuan?style=for-the-badge&logo=github&label=Followers&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=iamdinhthuan&style=for-the-badge&color=blueviolet)
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdinhthuan&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdinhthuan&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -166,13 +176,7 @@ gantt
 </div>
 
 <div align="center">
-  
-### 📊 Repository Stats
-  
-![Total Stars](https://img.shields.io/github/stars/iamdinhthuan?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
-![Total Forks](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Total%20Forks&color=blue&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/iamdinhthuan)
-![Followers](https://img.shields.io/github/followers/iamdinhthuan?style=for-the-badge&logo=github&label=Followers&color=green)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=iamdinhthuan&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -203,8 +207,6 @@ gantt
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=iamdinhthuan&color=blueviolet&style=for-the-badge)
 
 **Thanks for visiting!** ⭐
 
