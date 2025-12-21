@@ -170,15 +170,6 @@ gantt
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdinhthuan&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdinhthuan&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdinhthuan&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamdinhthuan&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 🎵 Currently Vibing To
