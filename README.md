@@ -180,7 +180,6 @@ gantt
   *Building the future of Vietnamese AI, one model at a time* 🚀
 </div>
 
----
 
 ## 📬 Let's Connect!
 
