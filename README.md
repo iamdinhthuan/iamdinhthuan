@@ -60,7 +60,7 @@ class ThuanNguyen:
 | VoxCPM TTS | ✅ |
 | StyleTTS 2 Lite | ✅ |
 | Spark TTS | ✅ |
-| xtts 2 | ✅ |
+| XTTS-V2 | ✅ |
 
 </td>
 <td width="50%" valign="top">
