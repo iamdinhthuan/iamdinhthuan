@@ -27,10 +27,10 @@ class ThuanNguyen:
         
     def current_focus(self):
         return [
-            "🎙️ Vietnamese Speech AI (TTS/STT)",
-            "🧠 NLP & Large Language Models", 
-            "🚀 Real-time AI Systems",
-            "🔧 MLOps & Production Deployment"
+            " Vietnamese Speech AI (TTS/STT)",
+            " NLP & Large Language Models", 
+            " Real-time AI Systems",
+            " MLOps & Production Deployment"
         ]
     
     def philosophy(self):
@@ -155,11 +155,6 @@ gantt
 
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdinhthuan&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdinhthuan&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
----
 
 
 ## Let's Connect!
@@ -178,7 +173,7 @@ gantt
 
 <div align="center">
 
-**Thanks for visiting!** ⭐
+**Thanks for visiting!** 
 
 *"Code is poetry, but deployed code is a symphony."*
 
