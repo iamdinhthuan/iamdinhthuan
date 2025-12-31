@@ -171,6 +171,3 @@ gantt
 
 **Thanks for visiting!** 
 
-*"Code is poetry, but deployed code is a symphony."*
-
-</div>
