@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Speech+%26+NLP+Specialist;Building+AI+that+speaks+Vietnamese)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGUzODkwMXcxZnZuZWxrc29vY3F1cGN1dTUwZDA0YmFkMWszN3FqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="280"/>
 
 **`Digital Craftsman (ML Engineer / Backend Developer / Audio Alchemist)`**
 
@@ -48,7 +47,7 @@ class ThuanNguyen:
 <tr>
 <td width="50%" valign="top">
 
-### 🔊 Text-to-Speech Models Trained
+###  Text-to-Speech Models Trained
 
 | Model | Status |
 |:------|:------:|
@@ -70,7 +69,7 @@ class ThuanNguyen:
 </td>
 <td width="50%" valign="top">
 
-### 🎧 Speech-to-Text Models Trained
+###  Speech-to-Text Models Trained
 
 | Model | Status |
 |:------|:------:|
@@ -81,7 +80,7 @@ class ThuanNguyen:
 
 <br>
 
-### 📊 Model Training Stats
+###  Model Training Stats
 
 ```
 ┌─────────────────────────────┐
@@ -144,11 +143,11 @@ gantt
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   
-### 📊 Quick Stats
+### Quick Stats
   
 ![Total Stars](https://img.shields.io/github/stars/iamdinhthuan?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
 ![Followers](https://img.shields.io/github/followers/iamdinhthuan?style=for-the-badge&logo=github&label=Followers&color=green)
