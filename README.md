@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Nguyễn Đình Thuần
+#  Nguyễn Đình Thuần
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Speech+%26+NLP+Specialist;Building+AI+that+speaks+Vietnamese)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 ```python
 class ThuanNguyen:
@@ -42,7 +42,7 @@ class ThuanNguyen:
 
 ---
 
-## 🔬 Research & Development Focus
+##  Research & Development Focus
 
 <table>
 <tr>
@@ -65,6 +65,7 @@ class ThuanNguyen:
 | VoxCPM TTS | ✅ |
 | StyleTTS 2 Lite | ✅ |
 | Spark TTS | ✅ |
+| xtts 2 | ✅ |
 
 </td>
 <td width="50%" valign="top">
@@ -84,10 +85,9 @@ class ThuanNguyen:
 
 ```
 ┌─────────────────────────────┐
-│  TTS Models Trained: 13    │
-│  STT Models Trained: 4     │
-│  Primary Language: 🇻🇳     │
-│  Deployment: Production ✓  │
+│  TTS Models Trained: 14     │
+│  STT Models Trained: 4      │
+│  Primary Language: 🇻🇳       │  
 └─────────────────────────────┘
 ```
 
@@ -97,7 +97,7 @@ class ThuanNguyen:
 
 ---
 
-## 💼 Experience Timeline
+##  Experience Timeline
 
 ```mermaid
 gantt
@@ -109,17 +109,17 @@ gantt
     AI Engineer - NLP & Chatbot           :2024-09, 2025-12
 ```
 
-### 🏢 TEL4VN `Mar 2024 - Aug 2025`
+### TEL4VN `Mar 2024 - Aug 2025`
 **ML Engineer** — Phát triển hệ thống AI thoại và NLP tiếng Việt real-time
-- 🎯 FastAPI + Docker + GPU/CUDA infrastructure
-- 🎯 Production-grade speech processing pipelines
+- FastAPI + Docker + GPU/CUDA infrastructure
+- Production-grade speech processing pipelines
 
-### 🏢 ARAR `Sep 2024 - Present`
+### ARAR `Sep 2024 - Present`
 **AI Engineer** — Xây dựng chatbot SQL, RAG systems, và NLP solutions
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -142,16 +142,6 @@ gantt
 
 </div>
 
-### Detailed Skills Matrix
-
-| Domain | Technologies |
-|:-------|:-------------|
-| **Backend & MLOps** | Python, FastAPI, SQLAlchemy, Docker, Gunicorn, CI/CD, CUDA |
-| **AI/ML Frameworks** | PyTorch, TensorFlow, Transformers, Hugging Face, PhoBERT |
-| **Speech Processing** | pyannote, WavLM, FFmpeg, Custom TTS/STT pipelines |
-| **Audio & NLP** | SoundFile, Pydub, NER, Intent Classification, RAG |
-| **Frontend Support** | React, Next.js, TypeScript, TailwindCSS, WebSocket |
-
 ---
 
 ## 📈 GitHub Analytics
@@ -172,25 +162,17 @@ gantt
 </div>
 ---
 
-## 🎵 Currently Vibing To
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VlbGYwMXVsOHVwdnBsZGc0M29pcGVyNmU5ZGJnd2k5cXA2ODduMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="200"/>
-  
-  *Building the future of Vietnamese AI, one model at a time* 🚀
-</div>
-
-
-## 📬 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
 | Platform | Contact |
 |:--------:|:--------|
-| 📧 Email | [Dinhthuan02022001@gmail.com](mailto:Dinhthuan02022001@gmail.com) |
-| 📱 Phone | 0347 505 920 |
-| 💼 LinkedIn | [iamdinhthuan](https://www.linkedin.com/in/iamdinhthuan/) |
-| 🐙 GitHub | [iamdinhthuan](https://github.com/iamdinhthuan) |
+|  Email | [Dinhthuan02022001@gmail.com](mailto:Dinhthuan02022001@gmail.com) |
+|  Phone | 0347 505 920 |
+|  LinkedIn | [iamdinhthuan](https://www.linkedin.com/in/iamdinhthuan/) |
+|  GitHub | [iamdinhthuan](https://github.com/iamdinhthuan) |
 
 </div>
 
