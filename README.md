@@ -37,10 +37,6 @@ class ThuanNguyen:
         return "Bridging the gap between research papers and production systems"
 ```
 
-> *"Tôi tin rằng AI tốt nhất là AI hoạt động ổn định trong thế giới thực, không chỉ trên benchmark."*
-
----
-
 ##  Research & Development Focus
 
 <table>
