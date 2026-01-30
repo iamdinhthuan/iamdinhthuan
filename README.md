@@ -61,6 +61,9 @@ class ThuanNguyen:
 | StyleTTS 2 Lite | ✅ |
 | Spark TTS | ✅ |
 | XTTS-V2 | ✅ |
+| Mira-TTS | ✅ |
+| soprano TTS | WIP |
+| sopro TTS | WIP |
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +83,7 @@ class ThuanNguyen:
 
 ```
 ┌─────────────────────────────┐
-│  TTS Models Trained: 14     │
+│  TTS Models Trained: 15     │
 │  STT Models Trained: 4      │
 │  Primary Language: 🇻🇳       │  
 └─────────────────────────────┘
