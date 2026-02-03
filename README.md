@@ -107,7 +107,7 @@ gantt
     AI Engineer - NLP & Chatbot           :2025-09, 2026-01
 ```
 
-## TEL4VN  
+## [TEL4VN – PITEL](https://pitel.vn/)  
 **Machine Learning Engineer** · *Mar 2024 – Aug 2025*  
 
 - Developed real-time Vietnamese speech AI and NLP systems  
