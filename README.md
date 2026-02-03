@@ -95,8 +95,6 @@ class ThuanNguyen:
 
 ---
 
-chuyển qua tiếng anh và real time chổ thời gian làm việc
-
 ##  Experience Timeline
 
 ```mermaid
@@ -104,18 +102,24 @@ gantt
     title Career Journey
     dateFormat  YYYY-MM
     section TEL4VN
-    ML Engineer - Speech & NLP Systems    :2024-03, 2025-08
+    ML Engineer - Speech & NLP Systems    :2024-03, 2025-09
     section ARAR
     AI Engineer - NLP & Chatbot           :2025-09, 2026-01
 ```
 
-### TEL4VN `Mar 2024 - Aug 2025`
-**ML Engineer** — Phát triển hệ thống AI thoại và NLP tiếng Việt real-time
-- FastAPI + Docker + GPU/CUDA infrastructure
-- Production-grade speech processing pipelines
+## TEL4VN  
+**Machine Learning Engineer** · *Mar 2024 – Aug 2025*  
 
-### ARAR `Sep 2024 - Present`
-**AI Engineer** — Xây dựng chatbot SQL, RAG systems, và NLP solutions
+- Developed real-time Vietnamese speech AI and NLP systems  
+- Built and deployed production-grade speech processing pipelines  
+- Worked with FastAPI, Docker, and GPU/CUDA infrastructure  
+
+## ARAR  
+**AI Engineer** · *Sep 2024 – Present*  
+
+- Built SQL chatbots and Retrieval-Augmented Generation (RAG) systems  
+- Developed NLP-based solutions for real-world applications  
+
 
 ---
 
