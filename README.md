@@ -114,12 +114,11 @@ gantt
 - Built and deployed production-grade speech processing pipelines  
 - Worked with FastAPI, Docker, and GPU/CUDA infrastructure  
 
-## ARAR  
+## [ARAR](https://arar.vn/)  
 **AI Engineer** · *Sep 2024 – Present*  
 
 - Built SQL chatbots and Retrieval-Augmented Generation (RAG) systems  
 - Developed NLP-based solutions for real-world applications  
-
 
 ---
 
