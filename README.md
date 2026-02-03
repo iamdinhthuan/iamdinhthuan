@@ -95,7 +95,7 @@ class ThuanNguyen:
 
 ---
 
-Experience Timeline
+### Experience Timeline
 gantt
     title Career Journey
     dateFormat  YYYY-MM
