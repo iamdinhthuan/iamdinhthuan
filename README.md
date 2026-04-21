@@ -62,8 +62,6 @@ class ThuanNguyen:
 | Spark TTS | ✅ |
 | XTTS-V2 | ✅ |
 | Mira-TTS | ✅ |
-| soprano TTS | WIP |
-| sopro TTS | WIP |
 
 </td>
 <td width="50%" valign="top">
