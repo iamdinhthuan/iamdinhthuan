@@ -63,6 +63,7 @@ class ThuanNguyen:
 | Spark TTS | ✅ |
 | XTTS-V2 | ✅ |
 | Mira-TTS | ✅ |
+| Kokoro-TTS| ✅|
 
 </td>
 <td width="50%" valign="top">
@@ -82,7 +83,7 @@ class ThuanNguyen:
 
 ```
 ┌─────────────────────────────┐
-│  TTS Models Trained: 15     │
+│  TTS Models Trained: 16     │
 │  STT Models Trained: 4      │
 │  Primary Language: 🇻🇳       │  
 └─────────────────────────────┘
