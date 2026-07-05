@@ -4,4 +4,5 @@
 | --- | --- | --- |
 | README formatting | Check patch whitespace and conflict markers | `git diff --check` |
 | README content | Inspect rendered-source structure and links | `sed -n '1,220p' README.md` |
+| README asset | Confirm embedded CV infographic exists | `test -s assets/profile-cv.png` |
 | Task state | Confirm changed files before handoff | `git status --short` |
