@@ -1,180 +1,70 @@
 <div align="center">
 
-#  Nguyễn Đình Thuần
+# Nguyễn Đình Thuần
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Speech+%26+NLP+Specialist;Building+AI+that+speaks+Vietnamese)](https://git.io/typing-svg)
+**Machine Learning Engineer | Speech AI & NLP**
 
+Building Vietnamese speech and language systems from research prototypes to production services.
 
-**`Digital Craftsman (ML Engineer / Backend Developer / Audio Alchemist)`**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdinhthuan/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dinhthuan02022001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamdinhthuan)
-[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Scottcjn/Rustchain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdinhthuan/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Dinhthuan02022001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iamdinhthuan)
 
 </div>
 
 ---
 
-##  About Me
+## About
 
-```python
-class ThuanNguyen:
-    def __init__(self):
-        self.name = "Nguyễn Đình Thuần"
-        self.role = "Machine Learning Engineer"
-        self.location = "Ho Chi Minh City, Vietnam 🇻🇳"
-        self.education = "B.Eng Electronics & Telecommunications @ Ton Duc Thang University"
-        
-    def current_focus(self):
-        return [
-            " Vietnamese Speech AI (TTS/STT)",
-            " NLP & Large Language Models", 
-            " Real-time AI Systems",
-            " MLOps & Production Deployment"
-        ]
-    
-    def philosophy(self):
-        return "Bridging the gap between research papers and production systems"
-```
+I work on applied machine learning systems for speech and language, with a focus on Vietnamese TTS/STT, real-time inference services, and production deployment. My work sits across model training, backend APIs, GPU infrastructure, and applied NLP products.
 
-##  Research & Development Focus
+- Based in Ho Chi Minh City, Vietnam
+- B.Eng. Electronics & Telecommunications, Ton Duc Thang University
+- Focus areas: speech synthesis, speech recognition, RAG, LLM applications, and MLOps
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Current Focus
 
-###  Text-to-Speech Models Trained
+- Vietnamese speech synthesis and recognition systems
+- Production training and inference pipelines for audio models
+- Retrieval-Augmented Generation and SQL chatbot systems
+- FastAPI services, Dockerized deployment, and GPU/CUDA operations
 
-| Model | Status |
-|:------|:------:|
-| VibeVoice TTS | ✅ |
-| ZipVoice TTS | ✅ |
-| NeuTTS Air | ✅ |
-| Chatterbox TTS | ✅ |
-| Piper TTS | ✅ |
-| Orpheus TTS | ✅ |
-| VITS TTS | ✅ |
-| F5 TTS | ✅ |
-| Stylish TTS | ✅ |
-| Index TTS | ✅ |
-| VoxCPM TTS | ✅ |
-| StyleTTS 2 Lite | ✅ |
-| Spark TTS | ✅ |
-| XTTS-V2 | ✅ |
-| Mira-TTS | ✅ |
-| Kokoro-TTS| ✅|
+## Selected Work
 
-</td>
-<td width="50%" valign="top">
+| Area | Work |
+| --- | --- |
+| Speech AI | Built and deployed Vietnamese TTS/STT pipelines for real-time use cases |
+| NLP Systems | Developed RAG workflows, SQL chatbots, and applied NLP features |
+| Infrastructure | Worked with FastAPI, Docker, Linux, CUDA, and production GPU environments |
+| Open Source | Contributor to [RustChain](https://github.com/Scottcjn/Rustchain) |
 
-###  Speech-to-Text Models Trained
+## Model Experience
 
-| Model | Status |
-|:------|:------:|
-| Wav2Vec STT | ✅ |
-| Conformer STT | ✅ |
-| Zipformer STT | ✅ |
-| Whisper STT | ✅ |
+**Text-to-Speech:** VibeVoice, ZipVoice, NeuTTS Air, Chatterbox, Piper, Orpheus, VITS, F5, Stylish TTS, Index TTS, VoxCPM, StyleTTS 2 Lite, Spark, XTTS-V2, Mira, Kokoro.
 
-<br>
+**Speech-to-Text:** Wav2Vec, Conformer, Zipformer, Whisper.
 
-###  Model Training Stats
+## Tech Stack
 
-```
-┌─────────────────────────────┐
-│  TTS Models Trained: 16     │
-│  STT Models Trained: 4      │
-│  Primary Language: 🇻🇳       │  
-└─────────────────────────────┘
-```
+| ML & NLP | Backend | Infrastructure |
+| --- | --- | --- |
+| Python, PyTorch, TensorFlow | FastAPI, REST APIs | Docker, Linux, CUDA |
+| Hugging Face, Transformers | SQL, RAG pipelines | Git, GPU deployment |
 
-</td>
-</tr>
-</table>
+## Experience
 
----
+**AI Engineer, [ARAR](https://arar.vn/)**
 
-##  Experience Timeline
+- Built SQL chatbots, Retrieval-Augmented Generation systems, and NLP-based product features.
 
-```mermaid
-gantt
-    title Career Journey
-    dateFormat  YYYY-MM
-    section TEL4VN
-    ML Engineer - Speech & NLP Systems    :2024-03, 2025-09
-    section ARAR
-    AI Engineer - NLP & Chatbot           :2025-09, 2026-01
-```
+**Machine Learning Engineer, [TEL4VN - PITEL](https://pitel.vn/)**
 
-## [TEL4VN – PITEL](https://pitel.vn/)  
-**Machine Learning Engineer** · *Mar 2024 – Aug 2025*  
+- Developed Vietnamese speech AI systems, production speech processing pipelines, and GPU-backed ML services.
 
-- Developed real-time Vietnamese speech AI and NLP systems  
-- Built and deployed production-grade speech processing pipelines  
-- Worked with FastAPI, Docker, and GPU/CUDA infrastructure  
+## Contact
 
-## [ARAR](https://arar.vn/)  
-**AI Engineer** · *Sep 2024 – Present*  
-
-- Built SQL chatbots and Retrieval-Augmented Generation (RAG) systems  
-- Developed NLP-based solutions for real-world applications  
-
----
-
-## Tech Arsenal
-
-<div align="center">
-
-### Core Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### ML & NLP
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-##  GitHub Analytics
-
-<div align="center">
-  
-### Quick Stats
-  
-![Total Stars](https://img.shields.io/github/stars/iamdinhthuan?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
-![Followers](https://img.shields.io/github/followers/iamdinhthuan?style=for-the-badge&logo=github&label=Followers&color=green)
-![Profile Views](https://komarev.com/ghpvc/?username=iamdinhthuan&style=for-the-badge&color=blueviolet)
-
-</div>
-
-
-
-## Let's Connect!
-
-<div align="center">
-
-| Platform | Contact |
-|:--------:|:--------|
-|  Email | [Dinhthuan02022001@gmail.com](mailto:Dinhthuan02022001@gmail.com) |
-|  Phone | 0347 505 920 |
-|  LinkedIn | [iamdinhthuan](https://www.linkedin.com/in/iamdinhthuan/) |
-|  GitHub | [iamdinhthuan](https://github.com/iamdinhthuan) |
-
-</div>
-
-
-<div align="center">
-
-**Thanks for visiting!** 
+| Platform | Link |
+| --- | --- |
+| Email | [Dinhthuan02022001@gmail.com](mailto:Dinhthuan02022001@gmail.com) |
+| LinkedIn | [linkedin.com/in/iamdinhthuan](https://www.linkedin.com/in/iamdinhthuan/) |
+| GitHub | [github.com/iamdinhthuan](https://github.com/iamdinhthuan) |
