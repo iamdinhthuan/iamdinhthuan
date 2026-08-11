@@ -2,7 +2,7 @@
 
 # Nguyễn Đình Thuần
 
-**Machine Learning Engineer | Speech AI & NLP**
+**Middle AI Speech Engineer at Trivita AI | Speech AI & NLP**
 
 Building Vietnamese speech and language systems from research prototypes to production services.
 
@@ -13,7 +13,7 @@ Building Vietnamese speech and language systems from research prototypes to prod
 <br>
 <br>
 
-<img src="./assets/profile-cv.png" alt="Nguyễn Đình Thuần CV infographic" width="100%" />
+<img src="./assets/profile-cv-2026.png" alt="Nguyễn Đình Thuần CV infographic" width="100%" />
 
 </div>
 
@@ -58,7 +58,11 @@ I work on applied machine learning systems for speech and language, with a focus
 
 ## Experience
 
-**AI Engineer, [ARAR](https://arar.vn/)**
+**Middle AI Speech Engineer, [Trivita AI](https://trivita.ai/)** · Aug 2026–Present
+
+- Building and deploying AI speech systems.
+
+**AI Engineer, [ARAR](https://arar.vn/)** · Until Jul 2026
 
 - Built SQL chatbots, Retrieval-Augmented Generation systems, and NLP-based product features.
 
